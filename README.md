@@ -1,5 +1,24 @@
 # Sales Performance Analysis -Power BI Project
 
+## Table of Contents
+[Project Objective](#project-objective)
+
+[Dataset Used](#dataset-used)
+
+[Key KPIs Displayed](#key-kpis-displayed)
+
+[Business Questions Answered by the Dashboard](#business-questions-answered-by-the-dashboard)
+
+[Project Process](#project-process)
+
+[Interactive Slicers](#interactive-slicers)
+
+[Key Insights](#key-insights)
+
+[Dashboard](#dashboard)
+
+[Conclusion](#conclusion)
+
 ## Project Objective
 
 The objective of this project is to analyze and visualize sales data in order to assess overall business performance, identify top-performing sales representatives, regions, and product categories, understand customer behavior and sales channel effectiveness, and uncover trends that support data driven decision making and strategic planning.
